@@ -1,0 +1,68 @@
+
+# BEGIN HTTPS Redirection Plugin
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+# END HTTPS Redirection Plugin
+
+# BEGIN Custom SEO Redirects
+RedirectMatch 301 /da/10-procent-af-udlaan-til-britiske-virksomheder-via-crowd-lending-kommer-fra-staten https://www.flexfunding.com/da/britiske-virksomheder-finansieres-af-staten/
+RedirectMatch 301 /da/about-flex-funding-english-version https://www.flexfunding.com/da/english-version/
+RedirectMatch 301 /da/bankerne-strammer-laanevilkaarene-for-virksomhederne https://www.flexfunding.com/da/stramme-lanevilkar-for-virksomhederne/
+RedirectMatch 301 /da/blog/strategisk-oml%C3%A6gning-af-energiforbruget-giver-lavere-omkostninger-og-gavner-milj%C3%B8et https://www.flexfunding.com/da/office-offsite-cannes/
+RedirectMatch 301 /da/content/bankernes-vagthund-v%C3%A6lger-flex-funding https://www.flexfunding.com/da/bankernes-vagthund-vaelger-flex-funding/
+RedirectMatch 301 /da/content/bedre-vilk%C3%A5r-crowdlending https://www.flexfunding.com/da/bedre-vilkar-for-crowdlending/
+RedirectMatch 301 /da/content/berlingske https://www.flexfunding.com/da/bliv-partner/
+RedirectMatch 301 /da/content/bevco-opn%C3%A5ede-finansiering-crowdlending https://www.flexfunding.com/da/bewco-opnaede-finansiering-via-flex-funding/
+RedirectMatch 301 /da/content/bliv-partner https://www.flexfunding.com/da/bliv-partner/
+RedirectMatch 301 /da/content/bornholmnu https://www.flexfunding.com/da/bliv-partner/
+RedirectMatch 301 /da/content/finanswatch https://www.flexfunding.com/da/bliv-partner/
+RedirectMatch 301 /da/content/hvordan-er-flex-funding-reguleret https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/content/om-flex-funding https://www.flexfunding.com/da/om-os/
+RedirectMatch 301 /da/content/partnere https://www.flexfunding.com/da/partnere/
+RedirectMatch 301 /da/content/s%C3%A5dan-virker-crowdfunding https://www.flexfunding.com/da/sadan-virker-det/
+RedirectMatch 301 /da/content/skriv-til-os https://www.flexfunding.com/da/kontakt/
+RedirectMatch 301 /da/content/ugeavisen-nordfyn https://www.flexfunding.com/da/bliv-partner/
+RedirectMatch 301 /da/crowdfunding-med-udlaan-til-virksomheder-og-private-naar-milepael-paa-1-milliard https://www.flexfunding.com/da/crowdfunding-nar-milepael-pa-1-milliard/
+RedirectMatch 301 /da/crowdlending-til-agera https://www.flexfunding.com/da/invester-i-succesrig-dansk-it-virksomhed-i-kraftig-vaekst/
+RedirectMatch 301 /da/crowdlending-vejen-til-vaekst-ifolge-eu-kommissionen https://www.flexfunding.com/da/crowdlending-er-vejen-til-vaekst/
+RedirectMatch 301 /da/forbliver-laangivere-anonyme https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/funding-capernow https://www.flexfunding.com/da/succesrig-it-virksomhed-styrer-mod-stjernerne/
+RedirectMatch 301 /da/hoje-udlaansrenter-forringer-konkurrencevilkaar-og-skader-dansk-vaekst https://www.flexfunding.com/da/hoje-udlansrenter-skader-dansk-vaekst/
+RedirectMatch 301 /da/hvad-gor-jeg-hvis-jeg-har-glemt-min-adgangskode https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/hvordan-er-mine-penge-sikret-i-flex-funding https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/hvordan-kan-jeg-haeve-penge-fra-min-flex-funding-konto https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/hvordan-kan-jeg-overfore-penge-til-min-flex-funding-konto https://www.flexfunding.com/da/klagevejledning/
+RedirectMatch 301 /da/kreditklemme-recession-virksomhedernes-storste-strusler https://www.flexfunding.com/da/virksomhedernes-storste-trussel/
+RedirectMatch 301 /da/laaner https://www.flexfunding.com/da/lantager/
+RedirectMatch 301 /da/laangiver https://www.flexfunding.com/da/langiver/
+RedirectMatch 301 /da/nej-til-virksomhederne-fra-bankerne https://www.flexfunding.com/da/virksomhederne-oplever-fortsat-nej-i-bankerne/
+RedirectMatch 301 /da/pp-moebler-laaneandele https://www.flexfunding.com/da/nu-er-der-laneandele-i-pp-mobler-pa-vores-markedsplads/
+RedirectMatch 301 /da/tak-tilmelding-nyhedsbrev https://www.flexfunding.com/da/
+RedirectMatch 301 /en/contact https://www.flexfunding.com/en/contact-us/
+RedirectMatch 301 /en/content/do-lenders-remain-anonymous https://www.flexfunding.com/en/complaints-procedure/
+RedirectMatch 301 /en/content/how-can-i-transfer-money-my-flex-funding-account https://www.flexfunding.com/en/complaints-procedure/
+RedirectMatch 301 /en/content/how-can-i-withdraw-money-my-flex-funding-account https://www.flexfunding.com/en/complaints-procedure/
+RedirectMatch 301 /en/content/how-flex-funding-regulated https://www.flexfunding.com/en/complaints-procedure/
+RedirectMatch 301 /en/content/partners https://www.flexfunding.com/en/become-a-partner/
+RedirectMatch 301 /en/content/what-do-i-do-if-i-forget-my-password https://www.flexfunding.com/en/complaints-procedure/
+RedirectMatch 301 /en/faq https://www.flexfunding.com/en/how-it-works/
+RedirectMatch 301 /en/press https://www.flexfunding.com/en/media/
+RedirectMatch 301 /en/terms-and-conditions https://www.flexfunding.com/en/terms-conditions/
+# END Custom SEO Redirects
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress
+
+Options All -Indexes
+

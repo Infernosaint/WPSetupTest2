@@ -1,0 +1,1289 @@
+@media screen and (max-width: 1200px) {
+.front_header{
+	font-size:60px !important;
+	}
+}
+@media screen and (max-width: 1024px) {
+
+	#footer #footer-widgets .col-sm-3{
+		width: 20%;
+	}
+	.fancy-style .fancy-heading .heading-text > h1{
+		font-size: 58px;
+		line-height: 1.2;
+	}
+	#mobile-menu-wrap .language-switcher ul li{
+		border-left:none!important;
+	}
+	#mobile-menu-wrap .language-switcher ul li ul li{
+		padding-left:0!important;
+		padding-right:0!important;
+	}
+	#mobile-menu-wrap .language-switcher ul li ul li a{
+		padding: 15px 10px;
+}
+	#mobile-menu-wrap .language-switcher ul li a	{
+		color:rgb(109, 199, 122)!important;
+		}
+	.inner-page-wrap {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+
+	/*---------------------------------
+				Frontpage
+	----------------------------------*/
+
+	.home-section-01 .intro-knapper > .spb-asset-content{
+		padding-right: 5%;
+	}
+	.home-section-01 h1{
+		font-size: 45px !important;
+		line-height:1;
+	}
+	.home-section-01 h2{
+		font-size: 22px;
+		line-height:1.2;
+	}
+	.home-section-01 a.sf-button.large.sf-icon-stroke i{
+		font-size: 34px;
+		padding: 34px 10px 34px 25px;
+	}
+	.home a.sf-button.large.sf-icon-stroke span.text{
+		padding: 14px 25px 14px 55px;
+	}
+
+	.home .bullet-left .sf-icon-box h3,
+	.home .bullet-right .sf-icon-box h3{
+		font-size: 16px;
+	}
+	.home-section-03 .spb_image.col-sm-6 figure{
+		margin-left:0!important;
+	}
+	.home-section-03 .crowdfunding-text{
+		max-width: 50%;
+	}
+	.faq .blank_spacer.col-sm-12  {
+		height: 60px!important;
+	}
+	.faq .blank_spacer.col-sm-2{
+		height: 160px!important;
+	}
+	.homepage-signup > .spb_content_element{
+		padding-top: 80px!important;
+		padding-bottom: 80px!important;
+	}
+	.homepage-signup .signup-title h1{
+		font-size: 60px;
+		line-height: 1;
+	}
+	.homepage-signup .signup-title .blockquote-author,
+	.homepage-signup .signup-title blockquote p{
+		font-size: 18px;
+	}
+	.signup-form{
+		padding-left: 45px;
+	}
+
+	.pane-flex-calc .result span.monthly-fee,
+	.pane-flex-calc .result span.total-fee{
+		font-size: 28px;
+	}
+	.faq h2{
+		padding: 14px 10px;
+	}
+
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSSlideWrapper{
+		padding: 0 10% 0 10%;
+	}
+
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSPager.lSpg {
+		right: 24%;
+	}
+
+	/********* inner pages ***********/
+	.home-section-03 .page-right-text{
+		padding-left: 45px !important;
+	}
+	.home-section-03 .team-member h6{
+		line-height:1.2;
+	}
+
+	/************ sadan page ***********/
+	.sadan-section-01 .sf-button.large{
+		padding: 10px 15px 12px;
+	}
+	.sadan-tabs .row.multi-column-row{
+		min-height:auto!important;
+	}
+	.sadan-tabs .col-sm-8.tabs-changer{
+		width:100%;
+		min-height:auto!important;
+	}
+	.sadan-tabs .col-sm-12.tabs-changer{
+		width: 83%;
+		margin: 0 auto;
+		float: none;
+	}
+	.sadan-tabs .blank_spacer.col-sm-2{
+		display:none;
+	}
+	.sadan-tabs .blank_spacer.col-sm-12{
+		height:80px!important;
+	}
+
+	
+	/************** Blog **************/
+	.single-post .content-wrap .post-details-wrap{
+		text-align: right;
+	}
+	.single-post .content-wrap .post-details-wrap h3.share-text{
+		float:none;
+	}
+	.single-post .content-wrap .post-details-wrap a:last-child{
+		margin-right:0;
+	}
+	.single-post .content-wrap .author-bio-text a.author-more-link{
+		margin-top: 10px;
+	}
+
+	/************** Priser ******************/
+
+	/********** Partnere ************/
+
+	.page-id-1362 .home-section-03 .team-member h6{
+		margin-top:0;
+		margin-bottom: 5px;
+	}
+	.page-id-1362 .home-section-03 .crowdfunding-text h4{
+		margin: 10px 0!important;
+		line-height: 1.2!important;
+	}
+	.page-id-1362 .home-section-03.video .blank_spacer.col-sm-12{
+		height:40px!important;
+	}
+
+
+	/*************** Klagevejledning ************************/
+
+	.page-id-1450 .home-section-03 .crowdfunding-text a.knap-ansoeg-nu{
+		margin-bottom:0;
+	}
+	.page-id-1450 .home-section-03.video .blank_spacer.col-sm-12{
+		height:40px!important;
+	}
+	.page-id-1450 .home-section-03.video .container:last-child .blank_spacer.col-sm-12{
+		height:60px!important;
+	}
+
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .intro-knapper{min-height:300px !important;}
+
+	#footer #footer-widgets .col-sm-3{
+		width: 23%;
+	}
+	#copyright .text-left{
+		max-width: 70%;
+	}
+
+	.sf-icon-cont.cont-medium{
+		float:none;
+		margin:0 auto;
+	}
+	a.sf-button{
+		margin:0 auto;
+	}
+	a.knap-ansoeg-nu{
+		margin-right:15px;
+	}
+	.pagination-wrap .pagenavi.bar-styling li span{
+		line-height: 1.2;
+	}
+
+	.bullet-left ul.sf-list.start-investering,
+	.bullet-right ul.sf-list.start-investering,
+	.crowdfunding-text .sf-list.terms{
+		display: table;
+		width: auto;
+		text-align: left;
+		margin: 0 auto 20px;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .testimonials-slider ul.slides {
+		width: 80%;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSSlideWrapper {
+		padding: 0 5% 0 5%;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSPager.lSpg {
+		right: 17%;
+	}
+
+
+
+	/*---------------------------------
+				Frontpage
+	----------------------------------*/
+
+	.home-section-01 .intro-knapper,
+	.home-section-03 .crowdfunding-text{
+		width:100%;
+		float:none;
+		margin:0 auto;
+		max-width:100%;
+		text-align: center;
+		padding-left:0!important;
+
+
+	}
+	.home-section-01 .intro-knapper > .spb-asset-content{
+		padding:0!important;
+		text-align: center;
+	}
+	.home h1, h2{
+		text-align: center!important;
+	}
+	.home-section-01 .intro-knapper h2{
+		margin: 30px 59px 35px 0;
+		margin-right:0;
+
+	}
+
+	.home-section-01 .spb_image.col-sm-4,
+	.home-section-03 .spb_image.col-sm-6,
+	.home-section-03 .col-sm-6 .spb_image,
+	.home-section-01 .col-sm-6 .spb_image{
+		display:none;
+	}
+	.home .bullet-left,
+	.home .bullet-right{
+		float:none;
+		width:100%;
+		margin-bottom: 30px!important;
+	}
+	.home .bullet-left .col-sm-12.spb_text_column,
+	.home .bullet-right .col-sm-12.spb_text_column{
+		text-align: center;
+	}
+	.home .bullet-right{
+		margin-bottom:0!important;
+	}
+	.home section.fw-row:nth-child(2) .blank_spacer.col-sm-12{
+		height:40px!important;
+	}
+
+
+	/************** home calc**************/
+	.pane-flex-calc{
+		margin-top: 35px;
+		float:none;
+		padding-bottom:30px;
+	}
+	.pane-flex-calc >div{
+		background:none;
+	}
+	.pane-flex-calc .form,
+	.pane-flex-calc .result	{
+		width:100%;
+		float:none;
+		margin:0 auto;
+		clear:both;
+	}
+	.pane-flex-calc .form p,
+	.pane-flex-calc .result p{
+		text-align: center;
+	}
+	.pane-flex-calc .switcher{
+		max-width:330px;
+		margin:0 auto;
+		overflow:hidden;
+		float:none;
+	}
+	.pane-flex-calc .amount{
+		margin-top:20px;
+	}
+	.pane-flex-calc .amount,
+	.pane-flex-calc .flex-calc-length-new,
+	.pane-flex-calc .current-interest{
+		overflow: hidden;
+		text-align: center;
+	}
+	.pane-flex-calc .amount input.flex-calc-amount,
+	.pane-flex-calc label,
+	.pane-flex-calc .current-interest input.flex-calc-interest{
+		float:none;
+	}
+	.flex-calc-length-new-inner{
+		margin: 0 auto;
+		display: table;
+	}
+
+	.pane-flex-calc .result{
+		margin-top:30px;
+	}
+	.pane-flex-calc .result .button{
+		float:none;
+		display:table;
+		margin: 0 auto;
+	}
+
+	/*********** end calc ******************/
+
+	.home-section-03.video .blank_spacer.col-sm-2,
+	.presse .blank_spacer.col-sm-2,
+	.partners .blank_spacer.col-sm-2{
+		height:0!important;
+	}
+	.home-section-03.video .video-text,
+	.presse .crowdfunding-text{
+		margin-bottom:30px!important;
+	}
+	.home-section-03.video .video{
+		margin:0 auto;
+		float:none;
+	}
+	.home-section-03.video .container:last-child .blank_spacer.col-sm-12{
+		height: 80px!important;
+	}
+	.home .home-section-rent .sf-icon-cont + p{
+		display:none;
+	}
+	.presse .col-sm-3{
+		width:100%;
+	}
+	.presse .col-sm-3 > .spb-asset-content{
+		padding:2% 0!important;
+		padding-bottom:0!important;
+	}
+	.presse .container:last-child .blank_spacer.col-sm-12,
+	.partners .blank_spacer.col-sm-12  {
+		height: 60px!important;
+	}
+	.presse .container:first-child .blank_spacer.col-sm-12{
+		height: 30px!important;
+	}
+	/*.home*/ .partners .spb_image{
+		display:block;
+	}
+	.homepage-signup .signup-title,
+	.homepage-signup .signup-form{
+		width:100%;
+		float:none;
+		min-height:auto!important;
+	}
+	.homepage-signup .signup-form{
+		padding-left: 15px;
+	}
+	.homepage-signup .signup-form > .spb-asset-content{
+		padding: 5%;
+	}
+	.homepage-signup > .spb_content_element{
+		padding-top: 40px !important;
+		padding-bottom: 60px!important;
+	}
+	.homepage-signup .signup-title > .spb-asset-content{
+		margin-top: 0px!important;
+		margin-bottom: 0px!important;
+	}
+	.homepage-signup .signup-title blockquote{
+		padding-right:0;
+		text-align: center;
+	}
+	.homepage-signup .signup-form > .spb-asset-content{
+		padding:5%!important;
+	}
+	.signup-form .form-title,
+	.signup-form .mc4wp-form input,
+	.form-notice{
+		text-align: center;
+	}
+
+	/**************** langiver page ****************/
+
+	.home-section-03 .col-sm-6	{
+		width:100%;
+		text-align: center;
+	}
+
+	.home-section-03 .blank_spacer.col-sm-12{
+		height:60px!important;
+	}
+	.home-section-03 .fremtid{
+		padding-right:15px;
+		margin-bottom: 0;
+	}
+	.home-section-03 .fremtid h4,
+	.beregner-intro h4{
+		line-height:1.2;
+		margin-bottom: 15px;
+		margin-top:0;
+	}
+
+	.beregner-intro .spb-asset-content p:first-child,
+	.home-section-03 .fremtid p:last-child{
+		display:none!important;
+	}
+
+
+
+	.blank_spacer.col-sm-2{
+		display:none;
+	}
+
+	.col-sm-8,
+	.faq .col-sm-8{
+		width:80%;
+		float:none;
+		margin:0 auto;
+	}
+
+	.sf-icon-box-content-wrap{
+		text-align: center;
+	}
+
+	.home-section-03 .beregner-intro{
+		margin-top:0px;
+	}
+
+	.beregner-intro{
+		margin-top:50px;
+	}
+
+
+	.home-section-01.faq,
+	.home-section-03.partners-bl{
+		padding-bottom:60px;
+	}
+
+	/******* lantager page **********/
+	.partner-name .spb_image{
+		display:block;
+	}
+	.partners-bl .knap-ansoeg-nu{
+	/*	margin-bottom:60px;*/
+	}
+
+	.page-id-1156 .home-section-03.video .container:first-child .blank_spacer.col-sm-12{
+		height:40px!important;
+	}
+
+	/************ sadan page ***********/
+
+	.sadan-tabs .blank_spacer.col-sm-12 {
+		height: 60px!important;
+	}
+	.sadan-tabs .col-sm-12.tabs-changer{
+		width:100%;
+	}
+
+	/************** Om os ************/
+
+	.home-section-03 .spb_image.col-sm-2{
+		width:50%;
+		float:none;
+		margin:0 auto 15px;
+
+	}
+	.page-id-508 .home-section-03 .blank_spacer.col-sm-2{
+		display:none;
+	}
+	.page-id-508 .home-section-03 .team-member h6{
+		margin-top: 20px;
+	}
+	.page-id-508 .home-section-03 .crowdfunding-text h4{
+		margin-top:0;
+	}
+
+	/************** Bliv partner **************/
+	.page-id-1197 .fw-row:first-child .home-section-03 .container:first-child .blank_spacer.col-sm-12{
+		height:30px!important;
+	}
+
+	/********** Blog *******************/
+	ul.blog-items.blog-inf-scroll{
+		padding-bottom: 50px;
+	}
+	.single-post .content-wrap.col-sm-8{
+		width:100%;
+		margin-left:0;
+	}
+	.single-post  .content-wrap{
+		text-align: center;
+	}
+	.post-pagination h3{
+		font-size: 16px;
+	}
+
+	/************* Priser ****************/
+	.page-id-1317 .blank_spacer.col-sm-12{
+		height:30px!important;
+	}
+	.page-id-1317 .home-section-03 .sf-icon-cont + p{
+		display:none;
+	}
+	.page-id-1317 .home-section-03 a.knap-ansoeg-nu{
+		margin-bottom:15px;
+	}
+	.page-id-1317 .home-section-03.video .crowdfunding-text h4{
+		margin-top:0;
+	}
+	.page-id-1317 .homepage-signup > .spb_content_element {
+		padding-top: 30px!important;
+	}
+	.homepage-signup h1,
+	 .homepage-signup h2{
+		text-align:center;
+	}
+
+	/************ Presse *****************/
+
+	.page-id-1345 .blank_spacer.col-sm-12{
+		height:60px!important;
+	}
+	.page-id-1345 .home-section-03 .presse-intro .sf-icon-cont + p{
+		display:none;
+	}
+	.page-id-1345 .home-section-03 .col-sm-8 .spb_text_column{
+		margin-bottom:0;
+	}
+
+	.page-id-1345 .homepage-signup > .spb_content_element {
+		padding-top: 40px!important;
+		padding-bottom: 60px!important;
+	}
+
+	/**************** Partnere **************/
+
+	.page-id-1362 .beregner-intro {
+		width:100%;
+		float:none;
+		margin:0 auto!important;
+
+	}
+	.page-id-1362 .beregner-intro h4,
+	.page-id-1362 .beregner-intro p{
+		text-align: center!important;
+	}
+	.page-id-1362 .blank_spacer.col-sm-2{
+		display:none;
+	}
+	.page-id-1362 .partnere-page .spb_image{
+		margin-bottom:20px!important;
+	}
+	.page-id-1362 .home-section-03.video .container:last-child .blank_spacer.col-sm-12 {
+		height: 60px!important;
+	}
+
+
+	/*************** English-version *********************/
+
+	.page-id-1459 .home-section-03 .spb_text_column{
+		text-align: center;
+	}
+
+
+
+	/*************** Klagevejledning ************************/
+
+	.page-id-1450 .home-section-03 .crowdfunding-text .sf-icon-cont + p{
+		display:none;
+	}
+	.page-id-1450 .home-section-03 .crowdfunding-text a.knap-ansoeg-nu {
+			margin-right: 0;
+	}
+
+
+
+}
+
+@media screen and (max-width: 568px) {
+	#footer{
+		padding: 30px 0 0px;
+	}
+	#footer-widgets .textwidget div{
+		text-align:center!important;
+	}
+	#copyright .text-left {
+		max-width: 100%;
+	}
+	#footer #footer-widgets .col-sm-3 {
+		width: 100%;
+	}
+	a.sf-button{
+		margin-bottom:0px;
+	}
+	.home-section-01 .intro-knapper a.sf-button{
+		margin-bottom:20px;
+	}
+	.home-section-03 .crowdfunding-text a.sf-button,
+	a.knap-start-investering02,
+	/*.fremtid a.sf-button*/{
+		margin-bottom:0px;
+	}
+	.home-section-03 .blank_spacer.col-sm-12 {
+		height: 40px!important;
+	}
+	.fancy-style .fancy-heading .heading-text > h1 {
+		font-size: 40px;
+	}
+	/**************** testimonial slider **************/
+	.spb_testimonial_slider_widget.testimonial-section .testimonials-slider ul.slides{
+		width: 100%;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSPager.lSpg {
+		right: 7%;
+		top: 35%!important;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .slide-content-wrap{
+		padding: 30px 0px;
+	}
+	.spb_testimonial_slider_widget.testimonial-section cite span{
+		padding:0!important;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .slider-wrap {
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+
+	/*---------------------------------
+				Frontpage
+	----------------------------------*/
+
+	.home-section-01 h1{
+		font-size: 48px;
+	}
+	/*.home*/ .blank_spacer.col-sm-12{
+		height:30px!important;
+	}
+	.home-section-01.faq a.sf-button {
+		margin: 0 auto 20px;
+	}
+	.home-section-03 .crowdfunding-text h4,
+	.beregner-intro h4{
+		font-size: 30px;
+	}
+	.home-section-03 .crowdfunding-text h4{
+			/*margin-top: 0;*/
+	}
+
+	.home .blank_spacer.col-sm-2{
+		display:none;
+	}
+	.home .testimonial-wrap.large .testimonials > li{
+		padding: 30px;
+		text-align: center;
+	}
+	.home .testimonial-wrap.large .testimonials > li .testimonial-cite{
+		text-align: left;
+		width:auto;
+		display:table;
+		margin:0 auto;
+	}
+	.home .testimonial-wrap.large .testimonials > li .testimonial-cite .cite-text span{
+		display:block;
+		white-space: nowrap;
+	}
+	.home .testimonial-wrap.large .testimonials > li .testimonial-cite .cite-text.has-cite-image{
+		float:left;
+	}
+	.home .testimonial-wrap.large .testimonials > li{
+		margin-bottom: 30px;
+	}
+	.home .beregner-intro p:first-child{
+		display:none;
+	}
+	.pane-flex-calc {
+		margin-top: 0px;
+		padding-bottom: 0px;
+	}
+	.pane-flex-calc label{
+		float:left;
+	}
+	.pane-flex-calc .form p label{
+		float:none;
+	}
+	.pane-flex-calc .result label .loaner,
+	.pane-flex-calc .result label .lender{
+		text-align: left;
+	}
+	.pane-flex-calc .min-max-loaner,
+	.pane-flex-calc .min-max-lender{
+		margin-bottom: 30px;
+	}
+
+	.pane-flex-calc .result span.monthly-fee,
+	.pane-flex-calc .result span.total-fee{
+		font-size: 28px;
+	}
+	.pane-flex-calc .result div{
+		text-align: center;
+	}
+	.home-section-03.video .blank_spacer.col-sm-12{
+		height: 0px!important;
+	}
+	.home-section-03.video .container:last-child .blank_spacer.col-sm-12,
+	.home .partners .container:last-child .blank_spacer.col-sm-12{
+		height: 40px!important;
+	}
+	.home-section-01.faq .col-sm-6.spb_text_column p{
+		text-align:center!important;
+	}
+
+	.presse .col-sm-3 .sf-icon-box-content-wrap{
+		text-align: center;
+	}
+	.faq .blank_spacer.col-sm-12,
+	.presse .container:first-child .blank_spacer.col-sm-12,
+	.presse .container:last-child .blank_spacer.col-sm-12,
+	.home .partners .blank_spacer.col-sm-12{
+		height: 10px!important;
+	}
+	.home .testimonial-wrap.large .testimonial-text{
+		font-size: 18px;
+	}
+	.home .partners .spb-column-container.col-sm-2{
+		width: 19%;
+	}
+	.homepage-signup > .spb_content_element {
+		padding-top: 10px !important;
+		padding-bottom: 30px!important;
+	}
+	.homepage-signup .signup-title h1{
+		font-size: 40px;
+	}
+	.homepage-signup .signup-title blockquote{
+		margin-top: 15px;
+		margin-bottom: 0;
+
+	}
+
+	.signup-form  .spb_text_column{
+		margin-bottom:0;
+	}
+	.sf-icon-cont.cont-medium{
+		/*margin-bottom:15px;*/
+	}
+	.home-section-01.faq, .home-section-03.partners-bl {
+		padding-bottom: 10px;
+	}
+	.home-section-03.video .video-text{
+		margin-top: 10px!important;
+	}
+	.home-section-03 .beregner-intro {
+		margin-top: 0px!important;
+	}
+	/************** langiver page ****************/
+
+	.home-section-03 .fremtid h4,
+	.page-id-1099 .beregner-intro h4,
+	.page-id-1156 .beregner-intro h4{
+		font-size: 30px;
+	}
+	.page-id-1099 .home-section-03 .blank_spacer.col-sm-12,
+	.page-id-1156 .home-section-03 .blank_spacer.col-sm-12{
+		height: 40px!important;
+	}
+	 .col-sm-8{
+		width: 100%;
+	}
+	.beregner-intro {
+		margin-top: 20px!important;
+	}
+	.page-id-1099 .beregner-intro,
+	.page-id-1156 .beregner-intro {
+		margin-top: 40px!important;
+	}
+	.page-id-1099 .pane-flex-calc .notice-text,
+	.page-id-1156 .pane-flex-calc .notice-text {
+		margin-bottom: 15px!important;
+	}
+
+	.page-id-1099 .home-section-03 .beregner-intro,
+	.page-id-1156 .home-section-03 .beregner-intro {
+		margin-top: 0px!important;
+	}
+	.page-id-1099 .faq .blank_spacer.col-sm-12,
+	.page-id-1182 .faq .blank_spacer.col-sm-12,
+	.page-id-1156 .faq .blank_spacer.col-sm-12{
+		height: 20px!important;
+	}
+	.page-id-1099 .faq,
+	.page-id-1182 .faq,
+	.page-id-1156 .faq{
+		padding-bottom: 20px;
+	}
+	.page-id-1099 .col-sm-8.beregner-intro,
+	.page-id-1156 .col-sm-8.beregner-intro{
+		margin-bottom:30px;
+	}
+
+	/************ lantager page ************/
+	.home-section-03.faq.partners-bl .blank_spacer.col-sm-12{
+		height:30px!important;
+	}
+	.home-section-03.faq.partners-bl .container:nth-child(3) .blank_spacer.col-sm-12{
+		height:0px!important;
+	}
+	.partners-bl .partner-name .spb_text_column{
+		text-align: center;
+	}
+	.page-id-1156 .faq.partners-bl{
+		padding-bottom: 0px;
+	}
+	.page-id-1156 .home-section-03.video .container:first-child .blank_spacer.col-sm-12 {
+		height: 10px!important;
+	}
+
+
+	/************ sadan page *********/
+
+	.sadan-section-01 .blank_spacer.col-sm-12{
+		height: 20px!important;
+	}
+	.sadan-tabs .container:last-child .blank_spacer.col-sm-12 {
+		height: 20px!important;
+	}
+	.sadan-tabs .col-sm-12.tabs-changer{
+		text-align: center;
+	}
+	.sadan-tabs .blank_spacer.col-sm-12 {
+		height: 40px!important;
+	}
+	.page-id-1182 .home-section-03.video .video-text{
+		margin-top: 20px!important;
+	}
+
+	/************** Om os ***************/
+	.page-id-508 .home-section-03 .fw-row:nth-child(2) .container:first-child .blank_spacer.col-sm-12 ,
+	.page-id-508 .blank_spacer.col-sm-2 {
+		display:none;
+	}
+	.page-id-508 .home-section-03 .blank_spacer.col-sm-12{
+		height:40px!important;
+	}
+	.page-id-508 .fw-row:first-child .home-section-03 .container:last-child .blank_spacer.col-sm-12,
+	.page-id-508 .home-section-03 .container:last-child .blank_spacer.col-sm-12	{
+		height: 10px!important;
+	}
+	.home-section-03 .team-member h4{
+		font-size: 24px !important;
+		margin-top: 0;
+	}
+	.page-id-508 .beregner-intro.spb_text_column{
+		margin-bottom:0;
+	}
+
+	/********** Bliv partner **************/
+
+	.page-id-1197 .faq .blank_spacer.col-sm-2,
+	.page-id-1430 .faq .blank_spacer.col-sm-2{
+		display:none;
+	}
+
+	.page-id-1197 .fw-row:first-child .home-section-03 .container:first-child .blank_spacer.col-sm-12{
+		height:10px!important;
+	}
+	.page-id-1197 .presse .container:first-child .blank_spacer.col-sm-12 {
+		height: 20px!important;
+	}
+	.page-id-1197 .home-section-03.video .video-text{
+		margin-top: 10px!important;
+	}
+
+
+	/***************** Kontakt **************/
+
+	.page-id-1252 .home-section-03 .container:last-child .blank_spacer.col-sm-12{
+		height: 10px!important;
+	}
+	/***************** Blog *****************/
+
+	.single-post .content-wrap .post-info{
+		margin: 35px 0 0;
+	}
+	.single-post .content-wrap  .author-info-wrap,
+	.single-post .content-wrap  .post-details-wrap{
+		display:table;
+		width:auto;
+		margin:0 auto;
+	}
+	.single-post .content-wrap p{
+		text-align: center;
+	}
+	.single-post .content-wrap .top-author-info{
+		display:table;
+	}
+	.single-post article.post .content-wrap{
+		margin-bottom: 20px;
+	}
+	article.type-post.single-post-standard, article.type-post.single-post-standard-above {
+		padding-top: 40px;
+	}
+	.post-pagination a.col-sm-4{
+		width: 50%;
+	}
+	.post-pagination h3 {
+		font-size: 14px;
+	}
+
+	/************* Priser *****************/
+	.page-id-1317 .home-section-03.video{
+		padding-top:30px;
+	}
+	.page-id-1317 .spb_text_column{
+		text-align: center;
+	}
+	.page-id-1317 .homepage-signup > .spb_content_element {
+		padding-top: 20px!important;
+		padding-bottom: 40px!important;
+	}
+	.page-id-1317 .home-section-03.video .container:last-child .blank_spacer.col-sm-12 {
+		height: 20px!important;
+	}
+
+	/************* Presse ********************/
+	.page-id-1345 .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+	.page-id-1345 .fw-row:nth-child(2) .home-section-03 .blank_spacer.col-sm-12 {
+		height: 0px!important;
+	}
+
+	.page-id-1345 .home-section-03 a.sf-button {
+		margin-bottom: 10px;
+	}
+
+	.home-section-03,
+	.home-section-03 .beregner-intro h4,
+	.home-section-03 .beregner-intro p{
+		text-align: center!important;
+	}
+	.page-id-1345 .home-section-03 .beregner-intro, .page-id-1345 .home-section-03 .col-sm-8 {
+		width: 100%;
+	}
+	.page-id-1345 .home-section-03 .col-sm-8 .spb_text_column{
+		margin-top:15px;
+	}
+	.page-id-1345 .home-section-03 .col-sm-8 .spb_text_column .one_fourth{
+		margin-bottom:10px;
+	}
+	.page-id-1345 .faq .blank_spacer.col-sm-2{
+		display:none;
+	}
+	.page-id-1345 .homepage-signup > .spb_content_element {
+		padding-top: 20px!important;
+		padding-bottom: 40px!important;
+	}
+
+
+	/************* Partnere ****************/
+	.page-id-1362 .beregner-intro h4 {
+		line-height: 1.2!important;
+	}
+	.page-id-1362 .partnere-page .blank_spacer.col-sm-12 {
+		height: 40px!important;
+	}
+	.page-id-1362 .faq-front-list .spb-asset-content{
+		text-align: center;
+	}
+	.page-id-1362 .home-section-03.video .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+
+	.page-id-1362 .home-section-03.video .container:last-child .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+
+	/**************** Vilkar-og-betingelser *********************/
+	.page-id-1430 .home-section-03 .crowdfunding-text a.sf-button{
+		margin-bottom:10px!important;
+	}
+
+
+	/*************** English-version *********************/
+
+	.page-id-1459 .home-section-03 .crowdfunding-text a.knap-ansoeg-nu{
+		margin-bottom:10px;
+	}
+	.page-id-1459 .blank_spacer.col-sm-2{
+		display:none;
+	}
+
+
+	/*************** Klagevejledning *********************/
+	.page-id-1450 .home-section-03.video .blank_spacer.col-sm-12 {
+		height: 0px!important;
+	}
+	.page-id-1450 .faq-front-list .spb-asset-content{
+		padding-left:0!important;
+		padding-right:0!important;
+		text-align:center;
+	}
+	.page-id-1450 .home-section-03.video .container:last-child .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+	.page-id-1450 .blank_spacer.col-sm-2{
+		display:none;
+	}
+
+
+
+
+}
+
+@media screen and (max-width: 479px) {
+
+	#copyright .text-left p{
+		font-size: 12px!important;
+	}
+
+	a.knap-ansoeg-nu,
+	a.knap-start-investering02{
+		margin-right: 0;
+		margin-bottom: 20px!important;
+	}
+
+	.col-sm-8.video,
+	.col-sm-8,
+	.faq .col-sm-8{
+		width:100%;
+	}
+	.col-sm-8.video .video-text > .spb-asset-content{
+		padding-left: 0!important;
+		padding-right: 0!important;
+	}
+	/**************** testimonial slider **************/
+
+	.spb_testimonial_slider_widget.testimonial-section .slider-wrap {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.spb_testimonial_slider_widget.testimonial-section .spb-bg-color-wrap .lSSlideWrapper {
+		padding: 0 15px 0 15px!important;
+	}
+
+
+
+	/*---------------------------------
+				Frontpage
+	----------------------------------*/
+
+	.home-section-01 h1 {
+		font-size: 25px !important;
+		line-height: 1.2;
+	}
+
+	.home-section-01 h2 {
+		font-size: 15px;
+		line-height: 1.3;
+		margin: 20px 0 30px;
+		width: 100%;
+	}
+	.home-section-01 a.sf-button.large.sf-icon-stroke i{
+		padding: 24px 10px 41px 25px;
+		font-size: 28px;
+	}
+	.home-section-01 a.sf-button.sf-icon-stroke{
+		padding: 5px;
+	}
+	.home-section-01 a.sf-button.sf-icon-stroke{
+		font-size: 14px!important;
+	}
+	.home-section-03 .crowdfunding-text h4,
+	.home .beregner-intro h4{
+		font-size: 24px;
+	}
+	.page p,
+	.page ul li,
+	.page a.sf-button,
+	.page .notice-text,
+	.signup-form .mc4wp-form input{
+		font-size: 14px!important;
+	}
+
+	.home .testimonial-wrap.large .testimonials > li {
+		padding: 15px;
+
+	}
+	.home .testimonial-wrap.large .testimonial-text {
+		font-size: 16px;
+	}
+	.pane-flex-calc > div{
+		padding-left: 0px!important;
+		padding-right: 0px!important;
+	}
+	.pane-flex-calc label {
+		float: none;
+	}
+	.pane-flex-calc .amount input[type=text],
+	.pane-flex-calc .current-interest input[type=text]{
+		max-width: 150px;
+	}
+	.pane-flex-calc .result {
+		margin-top: 15px;
+	}
+	.pane-flex-calc .result label .loaner,
+	.pane-flex-calc .result label .lender{
+		max-width: 100%;
+		text-align: center;
+	}
+	.pane-flex-calc .result span.monthly-fee,
+	.pane-flex-calc .result span.total-fee,
+	.pane-flex-calc .result span.establish-fee{
+		margin-top: 15px!important;
+		display: block;
+		float: none;
+		text-align: center;
+	}
+	.pane-flex-calc .amount input.flex-calc-amount,
+	.pane-flex-calc label,
+	.pane-flex-calc .current-interest input.flex-calc-interest{
+		width: 100%;
+	}
+	.pane-flex-calc .flex-calc-length-value-6{
+		padding: 5px 6px 5px 4px;
+	}
+	.home .notice-text,
+	.home .form-notice{
+		text-align:center;
+	}
+	.homepage-signup .signup-title h1 {
+		font-size: 36px;
+	}
+	.home .partners .spb-column-container.col-sm-2 {
+		width: 100%;
+		margin: 10px 0;
+	}
+
+
+	/************** Langiver page ************/
+
+	.page-id-1099 .beregner-intro,
+	.page-id-1156 .beregner-intro {
+		margin-top: 20px!important;
+	}
+	.page-id-1099 .pane-flex-calc .notice-text,
+	.page-id-1156 .pane-flex-calc .notice-text {
+		margin-bottom: 5px!important;
+	}
+
+	/************ lantager page ************/
+
+	.page-id-1099 .faq,
+	.page-id-1182 .faq,
+	.page-id-1156 .faq {
+		padding-bottom: 10px;
+	}
+	.page-id-1099 .home-section-03 .blank_spacer.col-sm-12,
+	.page-id-1156 .home-section-03 .blank_spacer.col-sm-12 {
+		height: 20px!important;
+	}
+	.home-section-03.faq.partners-bl .blank_spacer.col-sm-12 {
+		height: 20px!important;
+	}
+	.page-id-1156 .home-section-03.video .container:first-child .blank_spacer.col-sm-12 {
+		height: 0px!important;
+	}
+
+	/************* sadan page ***********/
+	.sadan-tabs .nav-tabs > li{
+		width:100%;
+	}
+	.sadan-tabs .nav-tabs > li a{
+		padding: 30px 3%;
+		font-size: 12px;
+	}
+	.home-section-03 .spb_tabs .nav-tabs li a{
+		font-size: 12px;
+		padding: 30px 5% 21px;
+	}
+	.home-section-03.sadan-tabs table.standard_minimal td{
+		padding: 20px 5px 20px 0;
+	}
+	.page-id-1182 .home-section-03.video .video-text {
+		margin-top: 5px!important;
+	}
+
+	/************* kontakt ***************/
+
+
+	/*********** Bliv partner *********/
+	.page-id-1197 .fw-row:first-child .home-section-03 .container:last-child .blank_spacer.col-sm-12{
+		height:10px!important;
+	}
+	.page-id-1197 .presse .container:first-child .blank_spacer.col-sm-12 {
+		height: 0px!important;
+	}
+	.page-id-1197 .home-section-03.video .video-text {
+		margin-top: 0px!important;
+	}
+
+	/*********** Blog ***************/
+	.fancy-style .fancy-heading .heading-text > h1 {
+		font-size: 32px;
+	}
+	ul.blog-items.blog-inf-scroll {
+		margin-bottom:0;
+	}
+	.pagination-wrap{
+		margin-top:0;
+	}
+	.pagination-wrap .pagenavi.bar-styling li span {
+		line-height: 1.4;
+		padding: 8px 7px 8px 9px;
+	}
+	.pagination-wrap li {
+		margin-left: 5px;
+	}
+	.post-pagination a.col-sm-4 {
+		width: 100%;
+		text-align: center;
+	}
+	.post-pagination .prev-article:before,
+	.post-pagination .next-article:before{
+		top: 30%;
+	}
+
+	/************* Presse ************/
+	.page-id-1345 .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+	.page-id-1345 .home-section-03 a.sf-button {
+		margin-bottom: 15px;
+	}
+	.page-id-1345 .faq .blank_spacer.col-sm-12 {
+		height: 10px!important;
+	}
+	.page-id-1345 .homepage-signup > .spb_content_element {
+		padding-top: 10px!important;
+		padding-bottom: 20px!important;
+	}
+
+	/************* Partnere ************/
+	.page-id-1362 .partnere-page .blank_spacer.col-sm-12 {
+		height: 30px!important;
+	}
+	.page-id-1362 .home-section-03.video .video-text h4{
+		margin-top:0!important;
+	}
+	/**************** Vilkar-og-betingelser *********************/
+
+	.page-id-1430 .home-section-03 .crowdfunding-text a.sf-button {
+		margin-bottom: 20px!important;
+	}
+	.page-id-1430 .home-section-03 .crowdfunding-text a.sf-button:last-child{
+		margin-bottom:00px!important;
+	}
+
+	.page-id-1450 .home-section-03 .crowdfunding-text a.knap-ansoeg-nu {
+		margin-bottom: 0!important;
+	}
+
+
+}

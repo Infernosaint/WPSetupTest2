@@ -1,0 +1,130 @@
+.home-section-03 .fremtid {
+    padding-right: 50px;
+}
+.home-section-03 .fremtid h4 {
+    color: rgb(136, 136, 136);
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 0;
+    margin-bottom: 65px;
+    width: 100%;
+}
+.home-section-03 .fremtid p {
+    color: rgb(136, 136, 136);
+}
+.home-section-03 .page-right-text {
+    color: rgb(136, 136, 136);
+    max-width: 100% !important;
+    padding-left: 75px !important;
+}
+.shadowframe figure {
+    box-shadow: 0 1px 15px 0 rgba(0, 0, 0, 0.26);
+}
+.home-section-03 .tekst p {
+    margin-top: 30px;
+}
+.home-section-03 .spb_tabs .nav-tabs {
+    margin-bottom: 50px;
+}
+.home-section-03 .spb_tabs .nav-tabs li a {
+    font-size: 14px;
+    font-weight: 100;
+    padding: 30px 10% 21px;}
+	
+.home-section-03 table.sf-table {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.home-section-03 .sf-table .sf-icon-cont.cont-small {
+    padding: 8px 8px 8px 11px;
+}
+.home-section-03 .sf-table .sf-icon-cont {
+    height: 28px;
+    line-height: 12px;
+    margin-bottom: 0;
+    width: 26px;
+}
+.home-section-03 .sf-table .sf-icon {
+    font-size: 22px;
+}
+.home-section-03 table.standard_minimal td {
+    padding: 20px 30px 20px 0;
+}
+.home-section-03 .one_half p {
+    font-size: 13px;
+    line-height: 19px;
+}
+.home-section-03 .one_half a {
+    color: rgb(109, 199, 122);
+    font-weight: bold;
+    text-decoration: underline;
+}
+.home-section-03 .team-member {
+    max-width: 100% !important;
+    padding-left: 70px !important;
+}
+.home-section-03 .team-member h6 {
+    color: rgb(0, 47, 85);
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    /*line-height: 0;*/
+    margin-bottom: 9px;
+}
+.home-section-03 .team-member h4 {
+    color: rgb(0, 47, 85) !important;
+    font-size: 28px !important;
+    font-weight: bold !important;
+    line-height: 0 !important;
+    margin-bottom: 30px !important;
+}
+.partner-name p {
+    color: rgb(0, 47, 85) !important;
+    font-size: 15px !important;
+    letter-spacing: 0;
+    margin-top: 20px !important;
+}
+.posts-type-bold .recent-post .details-wrap,
+.masonry-items .blog-item .details-wrap,
+.blog-grid-items .blog-item > div,
+.product-shadows .preview-slider-item-wrapper {
+    background: rgb(246, 248, 250) none repeat scroll 0 0;
+    color: rgb(0, 47, 85)
+}
+.blog-item .side-details,
+.narrow-date-block {
+    background: #6dc77a;
+    color: rgb(255, 255, 255);
+}
+article.post.single-post-standard figure.media-wrap {
+    display: none;
+}
+.single-post #comment-area,
+.single-post .comments-likes {
+    display: none;
+}
+.faq-front-list h5 {
+    font-weight: 600;
+}
+.faq-knap .knap-ansoeg-nu {
+    margin-top: 60px;
+}
+.presse-intro h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.presse-intro h6 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.partnere-page h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.partnere-page h5 a {
+    color: rgb(109, 199, 122);
+}

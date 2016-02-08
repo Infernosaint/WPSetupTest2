@@ -1,0 +1,222 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Typekit Fonts for WordPress"
+msgstr ""
+
+#. Short description.
+msgid "Use a range of hundreds of high quality fonts on your WordPress website by integrating the Typekit font service into your WordPress website or blog."
+msgstr ""
+
+#. Screenshot description.
+msgid "Settings/configuration page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Detailed inline help"
+msgstr ""
+
+#. Found in description list item.
+msgid "Japanese – 日本語 ( ja )"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Embed and use <a href=\"https://typekit.com/\">Typekit</a> fonts in your WordPress website without having to edit your theme!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Typekit offer a service that allows you to select from a range of hundreds of high quality fonts for your WordPress website. The fonts are applied using the font-face standard, so they are standards compliant, fully licensed and accessible."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To use this plugin you need to sign up with Typekit, install this plugin and then either configure some Typekit selectors or define your own CSS rules. Typekit selectors provide a quick and easy way to get fonts enabled on your site.  Using your own CSS rules (as explained in Typekit's Advanced tips) gives you more control and lets you access additional attributes such as font-weight. This plugin allows you to create your own CSS rules that use Typekit fonts without the need to edit/upload CSS style sheets."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Detailed instructions are available on the plugin's settings page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin uses <a href=\"http://blog.typekit.com/2015/08/04/new-embed-code-for-asynchronous-font-loading/\">Typekit's asynchronous embed code</a>, which doesn't block the rendering of the page while fonts are loading."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Compatible with WordPress Multisite."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Available Languages</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Other Languages</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you would like to translate this plugin into another language, <a href=\"https://translate.wordpress.org/projects/wp-plugins/typekit-fonts-for-wordpress\">please visit the translate.wordpress.org site</a>. Thank you!"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin files and copy to your Plugins directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the WordPress Dashboard, and use Settings, Typekit Fonts to enter the whole 2 lines of your Typekit embed code."
+msgstr ""
+
+#. Found in installation list item.
+msgid "If you want to setup some CSS selectors like the examples shown in the Advanced link, enter your CSS rules in the plugin settings as well."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installation of this plugin is simple:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use WordPress.org language packs for plugin translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved compatibility with older PHP versions (no more pass by reference)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Screenshot updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Readme updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use Typekit's latest recommended embed code (which uses a https:// Typekit embed code URL for all sites)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.3 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change plugin's textdomain to match the plugin's folder name in preparation for translate.wordpress.org translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.1 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Japanese language - thanks to ThemeBoy."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved translation support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.8 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.5 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use the new scheme-less typekit.net embed code format ( ﻿//use.typekit.net/xyz.js )."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.4 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clarify license as GPLv2 or later."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.3 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix invalid HTML on settings page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Properly save/display settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.2 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation/localization improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix localization deprecated notice (thanks to aradams for reporting)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Store translation files in a /languages sub directory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.1 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for HTTPS/SSL websites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.0.1 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add instructions on how to use Typekit Kit Editor selectors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add instructions on how to use font weights / styles. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 2.9 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve FAQ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I get help?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is this plugin secure?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Which web browser(s) does Typekit support?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are detailed instructions on the plugin's settings page. See screenshot #2 for more information."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, see the plugin's description for more information."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please see <a href=\"http://help.typekit.com/customer/portal/articles/6786-browser-and-os-support\">this page</a> for information on <a href=\"http://help.typekit.com/customer/portal/articles/6786-browser-and-os-support\">Typekit web browser support</a>."
+msgstr ""

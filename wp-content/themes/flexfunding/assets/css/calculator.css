@@ -1,0 +1,430 @@
+.pane-flex-calc {
+	min-height: 525px;
+	padding-bottom: 70px;
+	background:  #ebebf0;
+}
+
+.pane-flex-calc > div {
+	max-width: 1100px;
+	padding-left: 20px!important;
+	padding-right: 20px!important;
+	margin-left: auto;
+	margin-right: auto;
+	display: block!important;
+	overflow: hidden;
+}
+
+
+@media (min-width: 768px) {
+	.pane-flex-calc >div {
+		background-image: url(../images/calculator/separator.png);
+		background-repeat: no-repeat;
+		background-position: center 90px;
+	}
+}
+
+
+@media (max-width: 480px) {
+	.pane-flex-calc .block-content {
+		margin-top: 20px !important;
+	}
+}
+
+.pane-flex-calc .lender, .pane-flex-calc .current-interest {
+	display: none;
+}
+
+.pane-flex-calc .lender label.header, .pane-flex-calc .current-interest label.header {
+	line-height: 1.2;
+	margin-top: 20px;
+}
+
+.pane-flex-calc .switcher {
+	min-width: 250px;
+	float: left;
+	clear: both;
+	border: 2px solid white;
+	padding: 6px;
+	margin-bottom: 50px;
+	cursor: pointer;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .switcher {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+	}
+}
+
+.pane-flex-calc .switcher .active {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: #002f55 !important;
+	text-transform: uppercase;
+	text-align: center;
+	border: 0;
+	padding: 14px 45px;
+	font-family: 'museo-sans', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	display: inline-block;
+	color: white !important;
+}
+
+.pane-flex-calc .switcher .active:hover {
+	text-decoration: none;
+}
+
+.pane-flex-calc .switcher .loaner {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: #cfd7e2;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	border: 0;
+	padding: 14px 45px;
+	font-family: 'museo-sans', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	display: inline-block;
+	float: left;
+	color: #002f55;
+}
+
+.pane-flex-calc .switcher .loaner:hover {
+	text-decoration: none;
+}
+
+.pane-flex-calc .switcher .lender {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: #cfd7e2;
+	text-transform: uppercase;
+	text-align: center;
+	border: 0;
+	padding: 14px 45px;
+	font-family: 'museo-sans', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	display: inline-block;
+	float: right;
+	color: #002f55;
+}
+
+.pane-flex-calc .switcher .lender:hover {
+	text-decoration: none;
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .switcher .loaner, .pane-flex-calc .switcher .lender {
+		padding: 14px 35px;
+	}
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .amount, .pane-flex-calc .current-interest {
+		text-align: center;
+		float: none;
+	}
+
+	.pane-flex-calc .amount input[type=text], .pane-flex-calc .current-interest input[type=text] {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+		margin: 10px auto;
+		max-width: none;
+	}
+}
+
+.pane-flex-calc input[type=text] {
+	box-sizing: content-box;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: white;
+	border: 0;
+	padding: 14px 45px;
+	color: #002f55;
+	text-align: center;
+	font-weight: 100;
+	font-weight: 700;
+	max-width: 75px;
+	float: left;
+	margin-bottom: 60px;
+	height: auto;
+}
+
+.pane-flex-calc input[type=text]:focus {
+	outline-width: 0;
+}
+
+@media (min-width: 960px) {
+	.pane-flex-calc input[type=text] {
+		margin-bottom: 0;
+		float: right;
+	}
+}
+
+.pane-flex-calc label {
+	float: left;
+	font-weight: 300;
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+
+.pane-flex-calc .form {
+	width: 100%;
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+@media (min-width: 768px) {
+	.pane-flex-calc .form {
+		margin-top: 65px;
+		width: 42.22222%;
+		float: left;
+		margin-right: 6.66667%;
+	}
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .form {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+	}
+}
+
+.pane-flex-calc .form .header {
+	line-height: 44px;
+	margin-top: 10px;
+	min-height: 44px;
+	min-width: 100%;
+	margin: 0;
+}
+
+@media (min-width: 960px) {
+	.pane-flex-calc .form .header {
+		max-width: 230px;
+		min-width: 0;
+		margin-bottom: 60px;
+	}
+}
+
+.pane-flex-calc .result {
+	margin-top: 80px;
+	width: 100%;
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+@media (min-width: 768px) {
+	.pane-flex-calc .result {
+		width: 42.22222%;
+		float: left;
+		margin-right: 6.66667%;
+		float: right;
+		margin-right: 0;
+	}
+}
+
+.pane-flex-calc .result span.monthly-fee {
+	font-weight: 300;
+	float: right;
+	font-size: 32px;
+	margin-top: 17px;
+}
+
+.pane-flex-calc .result span.total-fee {
+	font-weight: 700;
+	float: right;
+	font-size: 32px;
+	margin-top: 25px;
+}
+
+.pane-flex-calc .result span.establish-fee {
+	font-weight: 700;
+	float: right;
+	margin-top: 20px;
+}
+
+.pane-flex-calc .result label {
+	height: auto;
+	font-weight: normal;
+	margin: 0;
+}
+
+.pane-flex-calc .result label .loaner, .pane-flex-calc .result label .lender {
+	display: block;
+	padding-top: 18px;
+	max-width: 180px;
+}
+
+.pane-flex-calc .result div {
+	overflow: hidden;
+	*zoom: 1;
+	clear: both;
+}
+
+.pane-flex-calc .result .lines {
+	height: 10px;
+	background: url("../images/calculator/lines.png") repeat-x;
+	margin-top: 20px;
+}
+
+.pane-flex-calc .result .button {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: #002f55;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	border: 0;
+	padding: 14px 45px;
+	font-family: 'museo-sans', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	display: inline-block;
+	float: right;
+	max-width: 145px;
+	cursor: pointer;
+	margin: 30px 0;
+}
+
+.pane-flex-calc .result .button:hover {
+	text-decoration: none;
+}
+
+.pane-flex-calc .header {
+	font-weight: 700;
+}
+
+@media (min-width: 768px) {
+	.pane-flex-calc .header {
+		margin-bottom: 60px;
+	}
+}
+
+.pane-flex-calc .amount {
+	clear: both;
+}
+
+.pane-flex-calc .slider {
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background: #bac6ce;
+	border: none;
+	margin-bottom: 10px;
+	height: 20px;
+	clear: both;
+	max-width: 380px;
+}
+
+.pane-flex-calc .ui-slider a {
+	outline: none;
+}
+
+.pane-flex-calc .min-max-loaner, .pane-flex-calc .min-max-lender {
+	margin-bottom: 60px;
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .min-max-loaner, .pane-flex-calc .min-max-lender {
+		text-align: left;
+	}
+}
+
+.pane-flex-calc .min-max-loaner .min-amount, .pane-flex-calc .min-max-loaner .max-amount, .pane-flex-calc .min-max-lender .min-amount, .pane-flex-calc .min-max-lender .max-amount {
+	font-weight: bold;
+}
+
+.pane-flex-calc .min-max-loaner .max-amount, .pane-flex-calc .min-max-lender .max-amount {
+	float: right;
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .slider, .pane-flex-calc .min-max-loaner, .pane-flex-calc .min-max-lender {
+		max-width: 80%;
+		margin: 10px auto;
+	}
+}
+
+.pane-flex-calc .ui-slider-handle {
+	background: url("../images/calculator/handle.png") no-repeat top center;
+	border: 0;
+	width: 46px;
+	height: 38px;
+	outline: none;
+}
+
+.pane-flex-calc .ui-slider-handle:hover {
+	border: 0;
+}
+
+.pane-flex-calc .flex-calc-length-new {
+	clear: both;
+	width: 100%;
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .flex-calc-length-new {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.pane-flex-calc .flex-calc-length-new .flex-calc-length-new-inner {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+	}
+}
+
+.pane-flex-calc .flex-calc-length-button {
+	box-sizing: content-box;
+	float: left;
+	background: #bac6ce;
+	padding: 10px;
+	border-radius: 15px;
+	font-weight: bold;
+	width: 25px;
+	height: 25px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: pointer;
+
+}
+
+@media (max-width: 480px) {
+	.pane-flex-calc .flex-calc-length-button {
+		margin-right: 5px;
+		padding: 5px;
+	}
+}
+
+.pane-flex-calc .flex-calc-length-button.active {
+	background: #002f55;
+	color: white;
+}
+
+.pane-flex-calc .flex-calc-length-button:last-of-type {
+	margin: 0;
+}
