@@ -1,4 +1,5 @@
 <?php
+echo "WTF2";
 /**
  * Loads the WordPress environment and template.
  *
