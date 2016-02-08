@@ -274,7 +274,7 @@
 		    wp_register_script('jquery-cookie', SF_LOCAL_PATH . '/js/jquery.cookie.js', 'jquery', NULL, FALSE);
 		    wp_register_script('sf-functions', SF_LOCAL_PATH . '/js/functions.js', 'jquery', NULL, TRUE);
 		    wp_register_script('sf-functions-min', SF_LOCAL_PATH . '/js/functions.min.js', 'jquery', NULL, TRUE);
-		    wp_register_script('sf-smoothscroll', SF_LOCAL_PATH . '/js/sscr.js', '', NULL, FALSE);
+		    wp_register_script('sf-smoothscroll', SF_LOCAL_PATH . '/js/sscr.js', '', NULL, TRUE);
 
 
 			// jQuery

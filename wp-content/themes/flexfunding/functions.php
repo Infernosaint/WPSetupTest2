@@ -194,7 +194,7 @@ add_shortcode( 'submit_loan', 'submit_loan_function' );
 	function atelier_child_enqueue_scripts() {
 		wp_enqueue_script( 'jquery-ui-core');
 		wp_enqueue_script( 'jquery-ui-slider');
-		wp_enqueue_script( 'calculator-js', get_stylesheet_directory_uri() . '/assets/js/flex_calc.calculator.js', array('jquery') );
+		wp_enqueue_script( 'calculator-js', get_stylesheet_directory_uri() . '/assets/js/flex_calc.calculator.js', array('jquery'), NULL, TRUE );
 
 	}
 
