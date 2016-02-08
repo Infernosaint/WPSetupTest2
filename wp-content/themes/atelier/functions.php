@@ -278,7 +278,7 @@
 
 
 			// jQuery
-		    wp_enqueue_script('jquery', , , , TRUE);
+		    wp_enqueue_script('jquery');
 			wp_enqueue_script('jquery-cookie');
 			
 		    if ( $enable_smoothscroll ) {
